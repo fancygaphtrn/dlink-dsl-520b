@@ -1,0 +1,8 @@
+{
+  "domain": "dsl520b",
+  "name": "Dlink DSL-520b dsl modem sensor",
+  "documentation": "https://github.com/fancygaphtrn/dsl-520b",
+  "dependencies": [],
+  "codeowners": [],
+  "version": "0.0.1"
+}
